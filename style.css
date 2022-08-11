@@ -12,16 +12,15 @@ html, body {
 }
 
 div#qrcard {
-	top: 50px;
 	padding: 20px;
 	width: 260px;
-	border-radius: 10px;
+	border-radius: 15px;
 	background-color: #ffffff;
 }
 
 img {
 	width:100%;
-	border-radius: 10px;
+	border-radius: 15px;
 }
 
 p#p1 {
