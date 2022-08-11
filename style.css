@@ -18,6 +18,18 @@ div#qrcard {
 	background-color: #ffffff;
 }
 
+div#attribution {
+	font-weight:400;
+	font-size: 11px;
+	text-align: center;
+	color: #7b869d;
+}
+
+a {
+	color: #3E52A3;
+	text-decoration: none;
+}
+
 img {
 	width:100%;
 	border-radius: 15px;
