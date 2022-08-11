@@ -23,7 +23,7 @@ Or, do you want to check the challenge page? Click [here!](https://www.frontendm
 
 ## My process
 
-This project was made with the [replit.com](replit.com) IDE, where I used basic HTML and CSS. 
+This project was made with the [replit.com](https://replit.com) IDE, where I used basic HTML and CSS. 
 Also, I used some basic Flexbox properties to properly center the QR card.
 
 Working on this project I was able to better develop my CSS skills, where I learned
