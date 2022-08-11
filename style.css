@@ -11,23 +11,11 @@ html, body {
 	align-items: center;
 }
 
-div#qrcard {
+main {
 	padding: 20px;
 	width: 260px;
 	border-radius: 15px;
 	background-color: #ffffff;
-}
-
-div#attribution {
-	font-weight:400;
-	font-size: 11px;
-	text-align: center;
-	color: #7b869d;
-}
-
-a {
-	color: #3E52A3;
-	text-decoration: none;
 }
 
 img {
@@ -35,13 +23,24 @@ img {
 	border-radius: 15px;
 }
 
-p#p1 {
+h1 {
 	font-weight: 700;
 	font-size: 20px;
 }
 
-p#p2 {
+p {
 	font-weight:400;
 	font-size: 15px;
 	color: #7b869d;
+}
+
+div {
+	font-weight:400;
+	font-size: 11px;
+	color: #7b869d;
+}
+
+a {
+	color: #3E52A3;
+	text-decoration: none;
 }
